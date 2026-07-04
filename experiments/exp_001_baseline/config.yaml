@@ -1,0 +1,8 @@
+experiment_name: exp_001_baseline
+
+simulation:
+  timestep: 0.01
+  duration: 10
+
+model:
+  type: baseline
